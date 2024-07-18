@@ -1,5 +1,5 @@
 
-### [MySQL Database Design and Implementation](README.md)
+## [MySQL Database Design and Implementation](README.md)
 
 #### Course Overview:
 This course introduces the principles of database design and the implementation of databases using MySQL. It covers fundamental concepts, data modeling, SQL programming, and database administration.
