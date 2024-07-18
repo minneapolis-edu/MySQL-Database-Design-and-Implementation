@@ -1,5 +1,5 @@
 
-### Course Outline: MySQL Database Design and Implementation
+### [MySQL Database Design and Implementation](README.md)
 
 #### Course Overview:
 This course introduces the principles of database design and the implementation of databases using MySQL. It covers fundamental concepts, data modeling, SQL programming, and database administration.
@@ -8,7 +8,7 @@ This course introduces the principles of database design and the implementation 
 
 **Week 1-2: Introduction to Databases**
 - **Topics:**
-  - Overview of Databases
+  - [Overview of Database](overview-of-db.md)
   - Types of Databases
   - Introduction to MySQL
   - Installation and Setup of MySQL
